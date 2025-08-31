@@ -1,0 +1,24 @@
+"MathQuest" es un videojuego educativo diseñado para enseñar Matemáticas 
+a estudiantes de primaria a través de una experiencia inmersiva y emocionante. 
+
+La historia se desarrolla en "Númerolandia", un mundo mágico lleno de desafíos 
+numéricos y personajes fantásticos que guiarán a los jugadores en su aprendizaje.  
+
+El protagonista es Alicia, una niña curiosa y valiente que ama resolver acertijos. 
+Alicia es la elegida para restaurar el equilibrio del reino resolviendo problemas 
+matemáticos. Con su lápiz mágico podrá desbloquear puertas y derrotar enemigos 
+resolviendo operaciones.  
+
+El jugador podrá recolectar objetos, resolver acertijos y avanzar enfrentándose 
+a minijuegos matemáticos.  
+
+Los estudiantes avanzarán mediante un sistema de niveles. Cada nivel representa 
+un concepto matemático (sumas, restas, multiplicaciones, fracciones).  
+
+Los jugadores aprenderán sumas mediante acertijos de recolección, se reforzarán 
+las fracciones a través de rompecabezas y las evaluaciones se realizarán 
+mediante retos cronometrados.  
+
+El juego se desarrollará usando Unity y tendrá soporte para PC y Android.  
+Además, se implementarán animaciones 2D, guardado en la nube y logros para 
+mantener la motivación.
